@@ -29,4 +29,7 @@ Follow me on:
   <li>
     <a href="https://github.com/ismandre" class="social-icon social-icon--github" aria-label="GitHub">{%- include icons/github.svg -%}</a>
   </li>
+  <li>
+    <a href="https://goodreads.com/marko-andreis" class="social-icon social-icon--goodreads" aria-label="Goodreads">{%- include icons/goodreads.svg -%}</a>
+  </li>
 </ul>

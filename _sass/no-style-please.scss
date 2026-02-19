@@ -313,8 +313,9 @@ img {
   flex-shrink: 0;
   text-decoration: none;
 
-  &--linkedin { color: var(--adonis); }
-  &--github   { color: var(--orange); }
+  &--linkedin   { color: var(--adonis); }
+  &--github     { color: var(--orange); }
+  &--goodreads  { color: var(--honeysuckle); }
 
   &:hover { opacity: 0.75; text-decoration: none; }
 
