@@ -10,7 +10,7 @@ This website is where I share thoughts on what I'm learning, the ideas I care ab
 <div class="pinned-image">
   <img src="/assets/img/about_image.webp" alt="Photo taken at Granada, Spain">
   <div class="pinned-image__caption">
-    <span>Photo taken at Granada, Spain</span>
+    <span>Photo taken in Granada, Spain</span>
   </div>
 </div>
 

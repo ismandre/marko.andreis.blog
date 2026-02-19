@@ -5,7 +5,7 @@
 
   document.addEventListener('mousemove', function (e) {
     el.style.left = e.clientX + 'px';
-    el.style.top  = e.clientY + 'px';
+    el.style.top  = e.clientY-2 + 'px';
   });
 
   document.addEventListener('mouseleave', function () {
