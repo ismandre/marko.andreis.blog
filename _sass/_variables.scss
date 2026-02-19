@@ -1,0 +1,22 @@
+:root {
+  // Colors
+  --anger:       #FC3141;
+  --orange:      #FDA666;
+  --honeysuckle: #F7FD80;
+  --teal:        #26ECCB;
+  --adonis:      #5CA7FB;
+  --nicole:      #9086E3;
+
+  // Title font (site name on home page — can afford to be decorative)
+  --title-font-family:    'blzee', cursive;
+  --title-font-size:      3rem;
+  --title-font-weight:    normal;
+  --title-letter-spacing: 0.05em;
+  --title-line-height:    1.2;
+
+  // Content font (posts, body text — prioritise readability)
+  --content-font-family:  'KGNoRegretsSketch', cursive;
+  --content-font-size:    18px;
+  --content-font-weight:  normal;
+  --content-line-height:  1.4;
+}
