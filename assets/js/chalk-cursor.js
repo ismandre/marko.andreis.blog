@@ -1,4 +1,6 @@
 (function () {
+  if (navigator.maxTouchPoints > 0 || 'ontouchstart' in window) return;
+
   var el = document.createElement('div');
   el.id = 'chalk-cursor';
   document.body.appendChild(el);

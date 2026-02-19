@@ -70,15 +70,28 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'MyUglyHandwriting-Regular';
+  src: url('/assets/fonts/MyUglyHandwriting-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: #ffffff; }
+html, body { background: #ffffff; background-color: transparent; }
 
 html { height: 100%; scroll-behavior: smooth; }
 
+@media (pointer: fine) {
+  body, a, button, [role="button"],
+  input[type="submit"], input[type="button"], label {
+    cursor: none;
+  }
+}
+
 body {
-  cursor: none;
   color: rgba(240, 237, 224, 0.88);
   font-family: var(--content-font-family);
   font-size: var(--content-font-size);
@@ -87,7 +100,8 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
-  background: #ffffff url('/assets/img/bg.png') repeat;
+  background: #ffffff url('/assets/img/bg_1.png');
+  // background-size: cover;
   text-shadow:
     1px  1px 2px rgba(255, 255, 255, 0.08),
     0    0   4px rgba(255, 255, 255, 0.05);
@@ -328,13 +342,11 @@ img {
   }
 }
 
-// Hide native cursor on interactive elements
-a, button, [role="button"],
-input[type="submit"], input[type="button"], label {
-  cursor: none;
+// Custom chalk cursor
+@media (pointer: coarse) {
+  #chalk-cursor { display: none !important; }
 }
 
-// Custom chalk cursor
 #chalk-cursor {
   position: fixed;
   top: 0;
