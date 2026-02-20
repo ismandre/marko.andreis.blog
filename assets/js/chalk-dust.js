@@ -14,8 +14,8 @@
   var chalkColor = CHALK_COLORS[colorKey] || CHALK_COLORS.default;
 
   // ─── CHALK CURSOR COLORISER ─────────────────────────────────────────────────
-  // Uses the chalk PNG as a CSS mask so we can fill it with any background-color.
-  // For "default" we fall back to the original background-image approach.
+  // Uses background-blend-mode to tint the chalk while preserving its texture/shading,
+  // and mask to ensure the color only appears on the chalk shape itself.
   var CHALK_PNG = '/assets/img/white_chalk.png';
 
   function applyChalkCursorColor(key) {
@@ -28,22 +28,31 @@
       cursor.style.backgroundRepeat   = 'no-repeat';
       cursor.style.backgroundPosition = 'center';
       cursor.style.backgroundColor = '';
+      cursor.style.backgroundBlendMode = '';
+      cursor.style.filter = '';
       cursor.style.webkitMaskImage = 'none';
-      cursor.style.maskImage       = 'none';
+      cursor.style.maskImage = 'none';
     } else {
-      // Swap to mask + fill colour
-      cursor.style.backgroundImage = 'none';
+      // Layer the chalk image over a colored background and blend them
+      cursor.style.backgroundImage = 'url(\'' + CHALK_PNG + '\')';
+      cursor.style.backgroundSize  = 'contain';
+      cursor.style.backgroundRepeat   = 'no-repeat';
+      cursor.style.backgroundPosition = 'center';
       cursor.style.backgroundColor = CHALK_COLORS[key].hex;
+      cursor.style.backgroundBlendMode = 'multiply';
+      // Lighten to compensate for the darkening effect of multiply blend
+      cursor.style.filter = 'brightness(1.3)';
 
-      var maskVal  = 'url(\'' + CHALK_PNG + '\')';
-      cursor.style.webkitMaskImage    = maskVal;
-      cursor.style.webkitMaskSize     = 'contain';
-      cursor.style.webkitMaskRepeat   = 'no-repeat';
+      // Use mask to cut out only the chalk shape, hiding the colored rectangle
+      var maskVal = 'url(\'' + CHALK_PNG + '\')';
+      cursor.style.webkitMaskImage = maskVal;
+      cursor.style.webkitMaskSize = 'contain';
+      cursor.style.webkitMaskRepeat = 'no-repeat';
       cursor.style.webkitMaskPosition = 'center';
-      cursor.style.maskImage          = maskVal;
-      cursor.style.maskSize           = 'contain';
-      cursor.style.maskRepeat         = 'no-repeat';
-      cursor.style.maskPosition       = 'center';
+      cursor.style.maskImage = maskVal;
+      cursor.style.maskSize = 'contain';
+      cursor.style.maskRepeat = 'no-repeat';
+      cursor.style.maskPosition = 'center';
     }
   }
 
