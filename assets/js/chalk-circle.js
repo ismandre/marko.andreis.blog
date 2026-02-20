@@ -1,4 +1,20 @@
 (function () {
+  // ─── CHALK COLOR PALETTE ────────────────────────────────────────────────────
+  var CHALK_COLORS = {
+    default:     { r: 244, g: 241, b: 229, hex: '#F4F1E5' },
+    anger:       { r: 252, g:  49, b:  65, hex: '#FC3141' },
+    orange:      { r: 253, g: 166, b: 102, hex: '#FDA666' },
+    honeysuckle: { r: 247, g: 253, b: 128, hex: '#F7FD80' },
+    adonis:      { r:  92, g: 167, b: 251, hex: '#5CA7FB' },
+    nicole:      { r: 144, g: 134, b: 227, hex: '#9086E3' },
+  };
+
+  function getChalkColor() {
+    var colorKey = localStorage.getItem('chalk-color') || 'default';
+    var color = CHALK_COLORS[colorKey] || CHALK_COLORS.default;
+    return 'rgba(' + color.r + ', ' + color.g + ', ' + color.b + ', 0.9)';
+  }
+
   function rand(scale) {
     return (Math.random() - 0.5) * scale;
   }
@@ -55,7 +71,7 @@
     var path = document.createElementNS(ns, 'path');
     path.setAttribute('d', chalkyPath(cx, cy, rx, ry));
     path.setAttribute('fill', 'none');
-    path.setAttribute('stroke', 'rgba(240, 237, 224, 0.9)');
+    path.setAttribute('stroke', getChalkColor());
     path.setAttribute('stroke-width', '2.5');
     path.setAttribute('stroke-linecap', 'round');
     overlay.appendChild(path);
