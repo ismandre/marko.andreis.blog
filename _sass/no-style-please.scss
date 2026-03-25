@@ -131,8 +131,9 @@ a {
   justify-content: space-between;
   padding: 0.6rem 1.2rem;
   margin-bottom: 3rem;
-  border: 2px solid rgba(240, 237, 224, 0.6);
-  border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
+  // Border now drawn with realistic chalk effect via JavaScript (navbar.js)
+  // border: 2px solid rgba(240, 237, 224, 0.6);
+  // border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
 
   &__title {
     font-family: var(--title-font-family);
@@ -181,16 +182,17 @@ a {
       padding-top: 0.5rem;
       margin-top: 0.5rem;
 
-      &::before {
-        content: '';
-        display: block;
-        width: 100%;
-        height: 10px;
-        margin-bottom: 0.25rem;
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='10' preserveAspectRatio='none'%3E%3Cpath d='M0,5 C18,3 32,8 52,4 C72,0 88,9 110,6 C132,3 148,7 168,5 C188,2 205,8 228,4 C251,0 265,8 285,6 C305,4 320,7 342,5 C364,3 380,8 400,3 C420,0 437,9 458,6 C479,3 494,7 518,5 C542,3 557,8 578,4 C592,1 600,5 600,5' stroke='%23f0ede0' stroke-opacity='0.45' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
-        background-size: 100% 100%;
-        background-repeat: no-repeat;
-      }
+      // Separator now drawn with realistic chalk effect via JavaScript (navbar.js)
+      // &::before {
+      //   content: '';
+      //   display: block;
+      //   width: 100%;
+      //   height: 10px;
+      //   margin-bottom: 0.25rem;
+      //   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' height='10' preserveAspectRatio='none'%3E%3Cpath d='M0,5 C18,3 32,8 52,4 C72,0 88,9 110,6 C132,3 148,7 168,5 C188,2 205,8 228,4 C251,0 265,8 285,6 C305,4 320,7 342,5 C364,3 380,8 400,3 C420,0 437,9 458,6 C479,3 494,7 518,5 C542,3 557,8 578,4 C592,1 600,5 600,5' stroke='%23f0ede0' stroke-opacity='0.45' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+      //   background-size: 100% 100%;
+      //   background-repeat: no-repeat;
+      // }
 
       li { margin: 0; }
     }
