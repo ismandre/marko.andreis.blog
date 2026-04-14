@@ -2,77 +2,77 @@
 
 @font-face {
   font-family: 'Aldenburg Demo';
-  src: url('/assets/fonts/Aldenburg Demo.otf') format('opentype');
+  src: url('../fonts/Aldenburg Demo.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'blzee';
-  src: url('/assets/fonts/blzee.ttf') format('opentype');
+  src: url('../fonts/blzee.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Chalk Board';
-  src: url('/assets/fonts/Chalk Board.otf') format('opentype');
+  src: url('../fonts/Chalk Board.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Chalk Talk';
-  src: url('/assets/fonts/Chalk Talk.ttf') format('opentype');
+  src: url('../fonts/Chalk Talk.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Drawrite';
-  src: url('/assets/fonts/Drawrite.otf') format('opentype');
+  src: url('../fonts/Drawrite.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Handodle';
-  src: url('/assets/fonts/Handodle.ttf') format('opentype');
+  src: url('../fonts/Handodle.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'KGNoRegretsSketch';
-  src: url('/assets/fonts/KGNoRegretsSketch.ttf') format('opentype');
+  src: url('../fonts/KGNoRegretsSketch.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'KGNoRegretsSolid';
-  src: url('/assets/fonts/KGNoRegretsSolid.ttf') format('opentype');
+  src: url('../fonts/KGNoRegretsSolid.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Rawrote Demo';
-  src: url('/assets/fonts/Rawrote Demo.ttf') format('opentype');
+  src: url('../fonts/Rawrote Demo.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Rough Edges';
-  src: url('/assets/fonts/Rough Edges.ttf') format('opentype');
+  src: url('../fonts/Rough Edges.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyUglyHandwriting-Regular';
-  src: url('/assets/fonts/MyUglyHandwriting-Regular.otf') format('opentype');
+  src: url('../fonts/MyUglyHandwriting-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -100,7 +100,7 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
-  background: #ffffff url('/assets/img/bg_1.png');
+  background: #ffffff url('../img/bg_1.png');
   // background-size: cover;
   text-shadow:
     1px  1px 2px rgba(255, 255, 255, 0.08),
@@ -239,16 +239,16 @@ ul:not([class]) {
       top: 0.3em;
       width: 0.65em;
       height: 0.65em;
-      -webkit-mask: url('/assets/icons/circle.svg') center / contain no-repeat;
-      mask: url('/assets/icons/circle.svg') center / contain no-repeat;
+      -webkit-mask: url('../icons/circle.svg') center / contain no-repeat;
+      mask: url('../icons/circle.svg') center / contain no-repeat;
       background-color: currentColor;
     }
   }
 
   ul {
     li::before {
-      -webkit-mask-image: url('/assets/icons/square.svg');
-      mask-image: url('/assets/icons/square.svg');
+      -webkit-mask-image: url('../icons/square.svg');
+      mask-image: url('../icons/square.svg');
     }
   }
 }
@@ -355,7 +355,7 @@ img {
   left: 0;
   width: 48px;
   height: 48px;
-  background: url('/assets/img/white_chalk.png') center / contain no-repeat;
+  background: url('../img/white_chalk.png') center / contain no-repeat;
   pointer-events: none;
   z-index: 9999;
   transform-origin: top left;
@@ -392,7 +392,7 @@ img {
     transform: translateX(-50%) rotate(1.5deg);
     width: 120px;
     height: 42px;
-    background: url('/assets/img/ductape.png') center / cover no-repeat;
+    background: url('../img/ductape.png') center / cover no-repeat;
     z-index: 1;
     opacity: 0.88;
   }

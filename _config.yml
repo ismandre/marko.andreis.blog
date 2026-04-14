@@ -1,8 +1,8 @@
 title: Marko Andreis # name of the site
 author: Marko Andreis # name of site's author
 email: ismarkoandre@gmail.com # email of site's author
-url: https://marko.andreis.blog # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: https://ismandre.github.io # root address of the site
+baseurl: "/marko.andreis.blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Marko Andreis - Personal blog about software engineering, technology, football, and life experiences. Sharing thoughts on programming, books, and ideas.
 
