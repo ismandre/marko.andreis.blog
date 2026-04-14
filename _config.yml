@@ -4,7 +4,16 @@ email: ismarkoandre@gmail.com # email of site's author
 url: https://marko.andreis.blog # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  This is a website where I share thoughts, ideas, and experiences I find interesting and others could find useful.
+  Marko Andreis - Personal blog about software engineering, technology, football, and life experiences. Sharing thoughts on programming, books, and ideas.
+
+social:
+  name: Marko Andreis
+  links:
+    - https://www.linkedin.com/in/marko-andreis/
+    - https://github.com/ismandre
+    - https://goodreads.com/marko-andreis
+
+lang: en_US
 
 permalink: /:slug.html
 
@@ -26,6 +35,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jektex
 
 jektex:

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: about
+title: About me
+description: Hi! Software engineer, reader, and blogger sharing insights on technology, sports and life.
 ---
-
-I watched The Big Short more than 10 times. Started programming in QBasic. My favorite biography is Shoe Dog. My favorite football club is FC Barcelona. Never used Vim or Emacs. I don't think Guardiola is overrated and I long for times when Adidas Sala were a thing. Tabs over spaces, IDE over text editor, dark over light theme.
 
 This website is where I share thoughts on what I'm learning, the ideas I care about, and occasionally, reflections on life.
 
