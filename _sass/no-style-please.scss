@@ -417,4 +417,59 @@ img {
     color: rgba(240, 237, 224, 0.7);
     font-size: 0.82em;
   }
+
+  // Size modifiers
+  &--small {
+    width: 30%;
+  }
+
+  &--medium {
+    width: 50%; // default size
+  }
+
+  &--large {
+    width: 70%;
+  }
+
+  // Responsive: full width on mobile
+  @media (max-width: 768px) {
+    width: 90% !important;
+  }
+}
+
+// Image sizing classes for blog posts
+.small-image {
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.medium-image {
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.large-image {
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+// Responsive adjustments for smaller screens
+@media (max-width: 768px) {
+  .small-image {
+    max-width: 100%;
+  }
+
+  .medium-image {
+    max-width: 100%;
+  }
+
+  .large-image {
+    max-width: 100%;
+  }
 }
