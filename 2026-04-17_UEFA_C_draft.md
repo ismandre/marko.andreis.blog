@@ -613,3 +613,822 @@ finished moving UEFA C exam questions from Vedran's document into google sheets
   - https://90plus.blog/nogometne-skole/kako-se-skoluju-i-rangiraju-nogometni-treneri/
 
 - you have all of the e-mail activity in Notion
+e-mail activity ✅
+
+- 2023-08-27
+    
+    Poštovani,
+    
+    zanima me je li objavljen natječaj za upis na nastavni program osposobljavanja za voditelja/trenera nogometa UEFA C kategorije za 2023. godinu. U slučaju da je i da je natječaj još uvijek aktivan, molio bih link na izvor dodatnih informacija o uvjetima i rokovima natječaja.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+- 2025-01-07
+    
+    Poštovani,
+    
+    Zanima me kada počinju prijave za tečaj stručnog osposobljavanja za trenere UEFA C licence na području grada Zagreba. Također, molim vas da mi pojasnite u kojem se razdoblju provodi tečaj te na koji način i gdje mogu dobiti više informacija o samom tečaju i uvjetima prijave.
+    
+    Unaprijed zahvaljujem na odgovorima i informacijama.
+    
+    S poštovanjem,
+    Marko Andreis
+    +385 91 539 8907
+    
+    Poštovani,
+    
+    Natječaj za ovu godinu je gotov, edukacija je već počela. Novi će biti druge godine oko svibnja 2025. i zato pratite službenu web stranicu NA HNS kako bi se na vrijeme prijavili.
+    
+    Na službenoj web stranici pročitajte koji uvjeti su bili potrebni ove godine. Sve ostale informacije dobiju se prilikom upisa.
+    
+    Lp,
+    
+    NA HNS
+    
+- 2025-04-14
+    
+    Poštovani,
+    
+    Zanima me kada počinju prijave za tečaj stručnog osposobljavanja za trenere UEFA C licence na području grada Zagreba. Također, molim vas da mi pojasnite u kojem se razdoblju provodi tečaj te na koji način i gdje mogu dobiti više informacija o samom tečaju i uvjetima prijave.
+    
+    Unaprijed zahvaljujem na odgovorima i informacijama.
+    
+    S poštovanjem,
+    
+    Marko Andreis
+    
+    +385 91 539 8907
+    
+    Poštovani,
+    
+    Natječaj će biti u svibnju 2025. godine. Koji uvjeti su bili potrebni na zadnjem natječaju možete pronaći na službenoj web stranici.
+    
+    Također, pratite službenu web stranicu NA HNS kako bi na vrijeme saznali sve informacije i prijavili se na natječaj. Sve ostale informacije dobiju se kod upisa.
+    
+    Lp,
+    
+    NA HNS
+    
+- 2025-04-24
+    
+    Poštovani,
+    
+    Zanima me mogućnost obavljanja liječničkog pregleda za izdavanje liječničkog uvjerenja o zdravstvenoj sposobnosti za obavljanje poslova trenera u nogometu, što je preduvjet za upis na tečaj za UEFA C trenera.
+    
+    Ljubazno bih vas zamolio da mi javite:
+    
+    - Koji su točno pregledi potrebni za izdavanje ovog uvjerenja?
+    - Da li je potrebno unaprijed naručiti termin ili mogu doći bez najave?
+    - Koja je cijena pregleda i potrebna dokumentacija?
+    - Koliko traje proces izdavanja uvjerenja?
+    
+    Unaprijed zahvaljujem na informacijama.
+    
+    Srdačan pozdrav,
+    
+    Marko Andreis
+    
+    +385 91 539 8907
+    
+    Poštovani,
+    
+    isprike na čekanju odgovora.
+    
+    Molimo povratnu informaciju imate li kakve obrasce koje treba popuniti ili ste dobili upute što trebate obaviti?
+    
+    Srdačan pozdrav,
+    
+    Željka Grandić
+    
+    administrator
+    
+    Poštovana,
+    
+    zahvaljujem na javljanju.
+    
+    U privitku Vam dostavljam prošlogodišnji dokument u kojem su navedeni kriteriji za prijavu na natječaj za UEFA C tečaj za trenere. Među ostalim, navedena je i ova točka:
+    
+    - *liječničko uvjerenje medicine rada ili sportske medicine o zdravstvenoj sposobnosti za trenera/icu nogometa 1. razine UEFA C kategorije*
+    
+    Molim Vas da mi potvrdite je li potrebno još nešto dodatno ispuniti ili priložiti.
+    
+    Stojim na raspolaganju za dodatne informacije.
+    
+    Srdačno,
+    
+    Marko Andreis
+    
+- 2025-04-28
+    
+    Poštovani,
+    
+    obraćam Vam se vezano uz uvjet za upis na edukaciju za stjecanje UEFA C licence, točnije pod točkom koja se odnosi na dostavu liječničkog uvjerenja medicine rada ili sportske medicine o zdravstvenoj sposobnosti za trenera/icu nogometa 1. razine.
+    
+    Kako bih mogao pravovremeno zakazati termin kod nadležnog liječnika, ljubazno Vas molim za pojašnjenje sljedećeg:
+    
+    - Koje konkretne preglede liječnik treba provesti prilikom izdavanja traženog uvjerenja?
+    
+    Srdačan pozdrav,
+    
+    Marko Andreis
+    
+- 2025-05-06
+    
+    Prijava za edukaciju
+    
+    Ime i prezime: Marko Andreis
+    
+    Adresa: Ulica Vjekoslava Klaića, 9
+    
+    OIB: 07563969827
+    
+    Kontakt e-mail:
+    
+    [ismarkoandre@gmail.com](mailto:ismarkoandre@gmail.com)
+    
+    Kontakt telefon: 385915398907
+    
+    Razina edukacije: UEFA C
+    
+    Lokacija: Zagreb
+    
+    Prihvaćena pravila privatnosti: DA
+    
+    Datum prijave: 06.05.2025. 17:29
+    
+- 2025-05-15
+    
+    Poštovani,
+    
+    u prilogu dostavljam dokumentaciju za natječaj za upis u program stjecanja mikrokvalifikacija za trenera/icu I razine UEFA C kategorije.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+- 2025-06-13
+    
+    Poštovani ,
+    
+    u privitku pronađite obavijest  o statusu Vaše prijave na UEFA C natječaj – središte Zagreb – grupa 2.
+    
+    S poštovanjem,
+    
+    Nogometna akademija HNS
+    
+    Predmet: Status prijave na natječaj za upis na edukaciju za trenera I razine
+    UEFA C kategorije
+    
+    Poštovani ,
+    ovim putem Vas obavještavamo da ste nakon obrade kompletne dokumentacije svih
+    zainteresiranih kandidata koji su aplicirali za upis na edukaciju za trenera UEFA C kategorije
+    stekli pravo upisa na edukaciju za trenera I razine UEFA C kategorije pri NA HNS.
+    Pozivamo Vas na obavezno potpisivanje upisne dokumentacije koje će se održati :
+    
+    - za kolege u središtu Split, velika dvorana Fenix u Dugopolju , Matice Hrvatske 5 –
+    30.06.2025. s početkom u 1745 sati
+    - za kolege u središtu Sjever, ŽNS Varaždin, Zagrebačka 91, – 01.07.2025., s
+    početkom u 1600 sati
+    - za kolege u središtu Osijek, dvorana O.Š. A.Mihanović, I.Gundulića 5, – 4.07.2025., s
+    početkom u 1730 sati
+    - za kolege u središtu Rijeka, knjižnica Kostrena, Sv Lucija 14, – 03.07.2025., s
+    početkom u 1800 sati
+    - za kolege u središtu Zagreb, Nogometna akademija HNS, V.Vidrića 12, 10360
+    Sesvete, 07.07.2025. u 1800 sati – grupa 1
+    - za kolege u središtu Zagreb, Nogometna akademija HNS , Sesvete, 07.07.2025.
+    V.Vidrića 12, 10360 Sesvete, u 1900 sati – grupa 2
+    
+    Čestitamo uz sportski pozdrav !
+    
+- 2025-07-07
+    
+    Poštovani,
+    
+    najprije isprike žbog nedolaska na potpisivanje upisne dokumentacije, bio sam sprije;en žbog poslovnih obaveza. Budući da sam bio spriječen doći na potpisivanje ugovora za središte Zagreb - grupa 2, predlažem da dođem do vas u nekom terminu sutra tijekom dana da obavimo potpisivanje ugovora.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+    Poštovani,
+    
+    Molimo da platite u cijelosti edukaciju UEFA C do kraja tjedna kako bi znali da niste odustali od edukacije.
+    
+    Iznos od 800,00 eura na adresu: NA HNS, [Ul. Grada Vukovara 269a, Zagreb](https://www.google.com/maps/search/Ul.+Grada+Vukovara+269a,+Zagreb?entry=gmail&source=g)
+    
+    - žiro račun: **IBAN HR6123400091110546796** PBZ d.d.
+    - poziv na broj: **upisati OIB polaznika.**
+    
+    Potvrdu uplate pošaljite na mail, a upisnu dokumentaciju ćete potpisati na prvom modulu.
+    
+    Hvala na razumijevanju.
+    
+    Lp,
+    
+    NA HNS
+    
+    Poštovani,
+    
+    u prilogu šaljem potvrdu uplate.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+- 2025-07-09
+    - Nogometna akademija HNS - izlazni račun
+    
+    *Poštovani,*
+    
+    *u privitku Vam šaljemo fakturu.*
+    
+    *Sa poštovanjem,*
+    
+    *računovodstvo Nogometne akademije HNS*
+    
+    800 Euro
+    
+- 2025-08-10
+    - Poštovani, s kojim datumom započinje UEFA C edukcija za grupu koja starta na jesen i postoji li javno dostupan popis aktivnosti zajedno s datumima održavanja? Lijep pozdrav, Marko Andreis
+    - Poštovani, datumi su različiti s obzirom koja ste grupa i kojem središtu pripadate, dobit će te obavijest o početku na mail. lijep pozdrav, NA HNS.
+    - Poštovani,
+    Informacija će uskoro biti objavljena na stranicama Nogometne akademije.
+    Također pojedinačno ćete dobiti obavjest o početku edukacije.
+    Srdačno
+- 2025-08-22
+    
+    Poštovani,
+    
+    pozivamo vas da dođete na potpis ugovora u jednom od termina od **25. do 29. kolovoza 2025. godine**, u vremenu od **09:00 do 12:00 sati.**
+    
+    Molimo vas da u **što skorijem vremenu** navedete veličinu opreme i povratno javite na ovaj mail kako bismo na vrijeme naručili i osigurali odgovarajuću opremu za sve polaznike.
+    
+    Zahvaljujemo na suradnji i vidimo se uskoro.
+    
+    Lijep pozdrav,
+    
+    NA HNS.
+    
+    Poštovani,
+    
+    adresa potpisa ugovora:
+    
+    **Ulica Vladimira Vidrića 12, Sesvete.**
+    
+    Lijep pozdrav,
+    
+    NA HNS.
+    
+    Postovani,
+    
+    velicina opreme: M.
+    
+    Na potpis ugovora pretpostavljam da dolazim na sljedecu adresu: Ul. grada Vukovara 269A?
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+    Poštovani,
+    
+    adresa potpisa ugovora:
+    
+    **Ulica Vladimira Vidrića 12, Sesvete.**
+    
+    Lijep pozdrav,
+    
+    NA HNS.
+    
+- 2025-09-29
+    
+    Poštovani,
+    
+    šaljemo obavijest o početku  UEFA C edukacije- grupa 5, Zagreb.
+    
+    Lijep pozdrav,
+    
+    NA HNS.
+    
+    Obavještavamo Vas da će I modul navedene edukacije za grupu Zagreb 5 održati u periodu
+    od 06. – 08.listopada, 2025. g u NA HNS, V.Vidrića 12,10360 Sesvete, u terminima 09 – 18 sati.
+    
+    Okupljanje je 06.listopada, 2025. u 09 sati u prostorijama Nogometne akademije HNS
+    (adresa: Ul. Vladimira Vidrića 12, 10360 Sesvete) .
+    Svi polaznici dužni su sa sobom donijeti nogometnu loptu, zviždaljku te opremu za
+    praktičan rad.
+    Pri dolasku , polaznici će dobiti trenirku i majicu u kojoj će boraviti tijekom edukacije to
+    raspored aktivnosti.
+    Troškove putovanja i boravka polaznici snose sami !
+    
+- 2025-10-06
+    
+    U privitku Vam šaljemo potvrde o prijavi i realizaciji prakse.Ovjerenu prijavnicu i potpisanu od odgovorne strane osobe kluba potrebno je poslati na e-mail adresu: [mentoriranje@hns.family](mailto:mentoriranje@hns.family)
+    
+    Lijepi pozdrav
+    
+- 2025-10-09
+    
+    Pozdrav profesore Karatoviću,
+    
+    nadam se da ste dobro. Htio bih zamoliti ako postoji mogućnost da podijelite preporucenu literaturu ili materijale na temelju kojih je izrađen plan za Modul 1 UEFA C edukacije — koja pokriva teme obrađene u ovom modulu.
+    
+    Ako imate i preporuke ili materijale za naredne module, volio bih ih pogledati unaprijed.
+    
+    Dodatno, mislim da sam propustio dio iz uvodnog sata u kojem je objasnjeno na koji nacin funkcionira mentorstvo i prakse. Postoji li rok do kada se mora potpisana prijavnica poslati na e-mail adresu i kada prakse zapocinju?
+    
+    Hvala puno na pomoći!
+    
+    Lijep pozdrav,
+    Marko Andreis
+    
+    Poštovani,
+    
+    Molim Vas da me nazovete na broj telefona 0912525975 kako bi Vam sve objasnio.
+    
+    Lijepi pozdrav
+    
+    Luka Karatović
+    
+- 2025-10-17
+    
+    Poštovani,
+    
+    šaljemo Vam poveznicu za on-line predavanje na temu **„Osnove didaktike sporta “** – [dr.sc](http://dr.sc/). Nevenka Maras.
+    
+    Predavanje će se održati u **petak 07.11.2025.** s početkom u **16:00h do 19:00h**.
+    
+    Molim Vas da se povežete **15 minuta prije** početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS.
+    
+    Poštovani,
+    
+    šaljemo obavijest o početku edukacije za **Zagreb, grupa 5 - II modul.**
+    
+    Lijep pozdrav,
+    
+    NA HNS.
+    
+    Obavijest o početku II modula mikrokvalifikacija za trenera I razine UEFA C
+    
+    kategorije – Zagreb - Grupa 5
+    
+    Obavještavamo Vas da će II modul navedene edukacije za grupu Zagreb 5 održati u periodu
+    od 03. – 05.studenog, 2025.g u NA HNS, V.Vidrića 12,10360 Sesvete, u terminima 09:30 – 18
+    sati.
+    
+    Okupljanje je 03.studenog, 2025. u 09:30 sati u prostorijama Nogometne akademije HNS
+    (adresa: Ul. Vladimira Vidrića 12, 10360 Sesvete) .
+    Svi polaznici dužni su sa sobom donijeti nogometnu loptu, zviždaljku te opremu za
+    praktičan rad.
+    Pri dolasku , polaznici će dobiti trenirku i majicu u kojoj će boraviti tijekom edukacije to
+    raspored aktivnosti.
+    Troškove putovanja i boravka polaznici snose sami !
+    
+- 2025-10-21
+    
+    Poštovani,
+    
+    ovim pozivom šaljemo Vam poveznicu za on-line predavanje na temu **„Uvod u anatomiju i fiziologiju sporta “** – Izv. prof. dr. sc. Davor Šentija.
+    
+    Predavanje će se održati u utorak 21.10.2025. s početkom u 16:00h do 19:00h.
+    
+    Molim Vas da se povežete 15 minuta prije početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS
+    
+- 2025-10-23
+    
+    Žaštita na radu-prof. H.Ćendo -(G1+G2) Rijeka (G5) Zagreb
+    
+- 2025-10-31
+    
+    Poštovani,
+    
+    ovim pozivom šaljemo Vam poveznicu za on-line predavanje na temu **„Pravila nogometne igre “** – prof. Draženko Kovačić.
+    
+    Predavanje će se održati u utorak **25.11.2025.** s početkom u **16:00h do 19:00h.**
+    
+    Molim Vas da se povežete **15 minuta** prije početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav,
+    
+    NA HNS.
+    
+    Poštovani prof. Karatoviću,
+    
+    Zanima me kako su organizirane prakse i mentorstva – kako to obično izgleda u praksi i što se očekuje od mentora. Dolazi li se na treninge i vode li se bilješke o planu rada kojeg je namjeravao izvesti mentor ili se očekuje i aktivnije sudjelovanje u samom vođenju treninga.
+    
+    Te informacije bi mi pomogle da ih mogu iskomunicirati trenerima koje razmatram za mentorstvo.
+    
+    Hvala na pomoći!
+    
+    Lijep pozdrav,
+    Marko Andreis
+    
+    Poštovani,
+    
+    Mentor vodi svoju momčad i provodi trenažni proces prema svome planu i programu. Vaš zadatak je sudjelovati u procesu planiranja i programiranja te provedbi trenažnog programa pod vodstvom mentora. Vodite bilješke jer je sve treninge potrebno unijeti u “Trenerov dnevnik”.
+    
+    Lijepi pozdrav
+    
+    Poštovani,
+    
+    šaljemo Vam poveznicu za on-line predavanje na temu **„Osnove pedagogije sporta “** – [dr.sc](http://dr.sc/). Nevenka Maras.
+    
+    Predavanje će se održati u **srijedu 26.11.2025.** s početkom u **17:00h do 20:00h**.
+    
+    Molim Vas da se povežete **15 minuta prije** početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS.
+    
+- 2025-11-06
+    
+    Uvod u medicinu [sporta-dr.sc](http://sporta-dr.sc/). Tomislav Vlahović.-(G1,G2,G3,G4,G5) Zagreb
+    
+    Poštovani,
+    
+    šaljemo Vam poveznicu za **on-line predavanje** na temu **„Uvod u medicinu sporta“** – [dr.sc](http://dr.sc/). Tomislav Vlahović.
+    
+    Predavanje će se održati u **petak 28.11.2025.** s početkom u **16:00h do 18:00h**.
+    
+    Molim Vas da se povežete **15 minuta prije** početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS.
+    
+    Poštovani,
+    
+    PROMJENA DATUMA!
+    
+    šaljemo Vam poveznicu za on-line predavanje na temu **„Osnove pedagogije sporta “** – [dr.sc](http://dr.sc/). Nevenka Maras.
+    
+    Predavanje će se održati u četvrtak **27.11.2025.** s početkom u **17:00h do 20:00h**.
+    
+    Molim Vas da se povežete **15 minuta prije** početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS.
+    
+- 2025-11-07
+    
+    Osnove didaktike sporta-prof.N.Maras (G1+G2)RI,(G5)ZG
+    
+- 2025-11-11
+    
+    Postovani,
+    
+    u prilogu šaljem ovjerenu prijavnicu i potpisanu od odgovorne osobe kluba za obavljanje prakse.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+    Poštovani,
+    
+    Praksa je zavedena i odobrena.
+    
+    Prijavnicu za praksu potrebno je unijeti u Coach Diary pod rješenje zadatka kao i Potvrdu o realizaciji prakse, nakon što odradite praksu od 50 TJ.
+    
+    S poštovanjem
+    
+    D.Jagačić
+    
+- 2025-11-21
+    
+    Poštovani,
+    
+    Šaljem vam postupak registracije na Trenerov dnevnik.
+    
+    Ako postoji problem oko registracije i/ili niste dobili obavijest i link, pošaljite upit na email adresu [**info@coach-diary.com**](mailto:info@coach-diary.com)
+    
+    Postupak registracije u privitku.
+    
+    Za sve upite slobodno se obratite.
+    
+    | Šarić | Ivan | [info@frizerskipribor.com](mailto:info@frizerskipribor.com) |
+    | --- | --- | --- |
+    | Šimunec | Magdalena | [magdalena.simunec@gmail.com](mailto:magdalena.simunec@gmail.com) |
+    | Šitum | Mario | [situm.mario@hotmail.com](mailto:situm.mario@hotmail.com) |
+    | Špoljar | Alen | [aspoljar87@gmail.com](mailto:aspoljar87@gmail.com) |
+    | Špoljarić | Christian | [spoljaric.christian@gmail.com](mailto:spoljaric.christian@gmail.com) |
+    | Valenčak | Erik | [evalencak27@gmail.com](mailto:evalencak27@gmail.com) |
+    | Vešligaj | Dino | [dinovesligaj@gmail.com](mailto:dinovesligaj@gmail.com) |
+    | Vitković | Dino | [dino.vitkovic1@gmail.com](mailto:dino.vitkovic1@gmail.com) |
+    | Vrban | Ivan | [ivan.vrban@yahoo.com](mailto:ivan.vrban@yahoo.com) |
+    | Vukelja | Fran | [vukelja.fran@gmail.com](mailto:vukelja.fran@gmail.com) |
+    | Vutmej | Andrija | [andrija.vutmej@gmail.com](mailto:andrija.vutmej@gmail.com) |
+    | Zeman | Ivan | [izeman8@gmail.com](mailto:izeman8@gmail.com) |
+    | Lukić | Luka | [lukaku1992.ll@gmail.com](mailto:lukaku1992.ll@gmail.com) |
+    | Halama | Ivan | [ivan.halama0@gmail.com](mailto:ivan.kuljanac96@gmail.com) |
+    | Miljković | Dinko | [dinko77m@gmail.com](mailto:dinko77m@gmail.com) |
+    | Andreis | Marko | [ismarkoandre@gmail.com](mailto:ismarkoandre@gmail.com) |
+    | Luketa | Tin | [tin201101.luketa@gmail.com](mailto:tin201101.luketa@gmail.com) |
+    | Klarić | Robert | [robert.klaric@yahoo.com](mailto:robert.klaric@yahoo.com) |
+    | Crkvenčić | Patricija | [patricija.crkvencic@gmail.com](mailto:patricija.crkvencic@gmail.com) |
+    | Palajsa | Ivan | [ivan_palajsa@hotmail.com](mailto:ivan_palajsa@hotmail.com) |
+    | Šimunić | Petar | [p.simunic88@gmail.com](mailto:p.simunic88@gmail.com) |
+    | Sušak | Laura | [susak.laura44@gmail.com](mailto:susak.laura44@gmail.com) |
+    | Mirković | Matija | [matija.mirkovic19@gmail.com](mailto:matija.mirkovic19@gmail.com) |
+    | Rebac | Albert | [rebacalber@gmail.com](mailto:rebacalber@gmail.com) |
+    | Tokić | Niko | [ntokic25@gmail.com](mailto:ntokic25@gmail.com) |
+    
+    Lijepi pozdrav
+    
+- 2025-11-25
+    
+    Pravila nogometne igre-prof.D.Kovačić (G1+G2) Rijeka,(G5) Zagreb
+    
+- 2025-11-27
+    
+    PROMJENA DATUMA-Osnove pedagogije sporta-prof.N.Maras-(G1+G2) Rijeka,(G5)Zagreb
+    
+    Poštovani,
+    
+    PROMJENA DATUMA!
+    
+    šaljemo Vam poveznicu za on-line predavanje na temu **„Osnove pedagogije sporta “** – [dr.sc](http://dr.sc/). Nevenka Maras.
+    
+    Predavanje će se održati u četvrtak **27.11.2025.** s početkom u **17:00h do 20:00h**.
+    
+    Molim Vas da se povežete **15 minuta prije** početka te osigurate stabilnu internet vezu za praćenje predavanja.
+    
+    U nastavku e-maila šaljemo vam poveznicu za pristup predavanju.
+    
+    Hvala i lijep pozdrav.
+    
+    NA HNS.
+    
+- 2025-11-28
+    - Uvod u medicinu sporta-dr.sc.T.Vlahović-(G1,G2,G3,G4,G5)Zagreb
+- 2025-12-12
+    
+    Poštovani,
+    
+    Ljubazno Vas podsjećamo da, ukoliko već niste, izvršite prijavu u aplikaciju “Trenerov dnevnik” kako bismo mogli nastaviti s daljnjim aktivnostima na tečaju. U aplikaciji su zadana tri zadatka te možete pristupiti rješavanju istih.
+    
+    1. **Potpisana i ovjerena PRIJAVNICA ZA PRASKU U NOGOMETNOM KLUBU** - priložiti u rješenje zadatka pod imenom dokumenta potpisanu i ovjerenu prijavnicu za praksu u nogometnom klubu
+    
+    **2. Potpisana i ovjerena POTVRDA O REALIZACIJI PRAKSE** - priložiti u rješenje zadatka pod imenom dokumenta potpisanu i ovjerenu potvrdu o realizaciji prakse u nogometnom klubu
+    
+    **3. Realizacija obavezne PRAKSE u nogometnim klubovima.** 50 trenažnih jedinica ****- kreiranje trenažnih jedinica.
+    
+    - Treninge obavezno unositi pod imenom: trening br.1, trening br.2, trening br.3, ....
+    
+    Rješenja zadatka potrebno je **povezati** na zadatke kako bi isti bili vidljivi predavačima te kako bi mogli biti pregledani i ocijenjeni.
+    
+    Završeni i ocijenjeni zadaci **uvjet** su za izlazak na završni ispit te uspješan završetak edukacije.
+    
+    Za sva dodatna pitanja stojimo na raspolaganju.
+    
+    Lijepi pozdrav
+    
+    Postovani,
+    
+    prije desetak dana prosao samo kroz upute za registraciju racuna u aplikaciji Trenerov dnevnik, medutim, unatoc uputama na upisanu e-mail adresu nisam dobio poruku s linkom za potvrdu registracije. Mozete li provjeriti o cemu se radi?
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+    Poštovani,
+    
+    Ponovite postupak te provjerite neželjenu/bezvrijednu poštu. Ako i dalje postoji problem oko registracije i/ili niste dobili obavijest i link, pošaljite upit na email adresu [**info@coach-diary.com**](mailto:info@coach-diary.com)
+    
+    Postupak registracije u privitku.
+    
+    Za sve upite slobodno nam se obratite.
+    
+    Lijepi pozdrav
+    
+- 2026-01-27
+    
+    Poštovani ,
+    
+    U privitku pronađite obavijest o početku III modula UEFA C programa za polaznike središta Zagreb – grupa-5.
+    
+    Nastava počinje dana 23. veljače 2026. g. (srijeda) u **14:30 sati.**
+    
+    Lijepi pozdrav
+    
+    Obavještavamo Vas da će se III modul UEFA C programa za grupu 5 središta Zagreb održati u
+    periodu od 23. – 25. veljače 2026. g. u predviđenim terminima od 9,30 – 17,30 sati.
+    Nastava počinje dana 23. veljače 2026. g. (ponedjeljak) u 14,00 sati na adresi : Nogometna
+    akademija HNS-V. Vidrića 12 Sesvete.
+    Na nastavu je potrebno doći u službenoj sportskoj opremi, s obzirom na vremenske prilike
+    potrebno je dodatno ponijeti odgovarajuću sportsku odjeću i obuću za praktični dio nastave,
+    te nogometnu loptu.
+    Podsjećamo, dolaznost je obavezna i uvjetuje dovršetak kompletne edukacije prema
+    potpisanom Ugovoru o edukaciji.
+    Napomena: U sklopu III modula moći ćete polagati ispite iz predmeta:
+    
+    1. SIU1: Osnove anatomije, fiziologije, sportske medicine, osnovnog održavanja života i
+    zaštite na radu
+    2. SIU2: Osnove pedagogije i didaktike
+    3. SIU3: Uvod u nogomet
+    Kako bi ostvarili pravo polaganja, ispite je potrebno prijaviti na web stranici Nogometne
+    akademije putem on-line prijavnice odmah po primitku ove obavijesti, najkasnije do petka
+    06.02.2026.
+    Troškove putovanja i boravka polaznici snose sami !
+- 2026-01-29
+    
+    Ime i prezime: Marko Andreis
+    
+    Adresa: Ulica Vjekoslava Klaića 9
+    
+    OIB: 07563969827
+    
+    Kontakt e-mail:
+    
+    [ismarkoandre@gmail.com](mailto:ismarkoandre@gmail.com)
+    
+    Kontakt telefon: 0915398907
+    
+    Razina edukacije: C
+    
+    Lokacija: Zagreb
+    
+    Ispit: SIU 1 - Osnove anatomije, fiziologije, sp. medicine, osnovnog održavanja na životu i zaštite na radu
+    
+    Ispit: SIU 2 - Osnove pedagogije i didaktike sporta
+    
+    Ispit: SIU 3 - Uvod u nogomet (PNI, ...)
+    
+- 2026-02-05
+    
+    U privitku Vam šaljemo Upute za rješavanje zadataka u aplikaciji “Coach diary”.
+    
+    Za sva dodatna pitanja stojimo na raspolaganju.
+    
+    Lijepi pozdrav
+    
+- 2026-02-20
+    
+    Poštovani,
+    
+    Obavještavamo Vas kako je zbog neodgodivih obaveza predavača došlo do promjene satnice održavanja predavanja za III modul.
+    
+    III modul započinje u **ponedjeljak, 23.02.2026. u 09:30h.**
+    
+    Zahvaljujemo se na razumijevanju.
+    
+    Lijepi pozdrav
+    
+- 2026-02-25
+    
+    Poštovani,
+    
+    U privitku pronađite obavijest o početku edukacije za UEFA C - Zagreb grupa 5 - IV modul.
+    
+    Lijepi pozdrav
+    
+    Obavještavamo Vas da će se IV modul UEFA C programa za grupu 5 središta Zagreb održati u
+    periodu od 18. – 20. ožujka 2026. g.
+    Nastava počinje dana 18. ožujka 2026. g. (srijeda) u 14,00 sati na adresi : Nogometna
+    akademija HNS-V. Vidrića 12 Sesvete.
+    Na nastavu je potrebno doći u službenoj sportskoj opremi, s obzirom na vremenske prilike
+    potrebno je dodatno ponijeti odgovarajuću sportsku odjeću i obuću za praktični dio nastave,
+    te nogometnu loptu.
+    Podsjećamo, dolaznost je obavezna i uvjetuje dovršetak kompletne edukacije prema
+    potpisanom Ugovoru o edukaciji.
+    Napomena: U sklopu IV modula moći ćete polagati ispite iz predmeta:
+    
+    1. SIU4: Uvod u tehničko-taktičku i kondicijsku pripremu u nogometu
+    2. SIU5: Uvod u metodiku treninga u nogometu
+    Pravo na polaganje ispita SIU4/SIU5 imaju samo polaznici koji su ispunili slijedeće uvjete:
+    - Položeni ispiti iz SIU1/SIU2/SIU3
+    - Završeni i ocjenjeni zadaci u „Trenerovom dnevniku“
+    - Dolaznost na nastavu
+    Također, u sklopu nastave moći ćete pisati i ispraviti ocjene iz predmeta SIU1/SIU2/SIU3.
+    Kako bi ostvarili pravo polaganja, ispite je potrebno prijaviti na web stranici Nogometne
+    akademije putem on-line prijavnice odmah po primitku ove obavijesti, najkasnije do petka
+    06.03.2026.
+    Troškove putovanja i boravka polaznici snose sami !
+- 2026-02-26
+    
+    Ime i prezime: Marko Andreis
+    
+    Adresa: Ulica Vjekoslava Klaića 9
+    
+    OIB: 07563969827
+    
+    Kontakt e-mail:
+    
+    [ismarkoandre@gmail.com](mailto:ismarkoandre@gmail.com)
+    
+    Kontakt telefon: 091 539 8907
+    
+    Razina edukacije: C
+    
+    Lokacija: Zagreb
+    
+    Ispit: SIU 4 - Uvod u tehničko-taktičku i kondicijsku pripremu u nogometu
+    
+    Ispit: SIU 5 - Uvod u metodiku treninga nogometa
+    
+    Datum prijave: 26.02.2026. 19:10
+    
+- 2025-03-04
+    
+    Poštovani,
+    
+    U privitku Vam šaljemo zadatke iz predmeta Kondicijska priprema u nogometu.
+    
+    Zadatke je potrebno riješiti te priložiti u “Trenerov dnevnik” pod ***Zadatak 4.***
+    
+    Također, riješeni zadatak potrebno je predati profesoru **na praktičnom dijelu ispita.**
+    
+    Lijepi pozdrav
+    
+    1. Napisati sadržaj za razvoj ili učenje (7 bodova):
+    a) Mobilnosti/Fleksibilnosti
+    b) Jakosti
+    c) Brzine u nogometnim uvjetima
+    d) Brzine bez nogometnog zahtjeva
+    e) Sadržaj za razvoj skočnosti
+    f) Nogometni sadržaj za razvoj aerobnih kapaciteta
+    g) Sadržaj za razvoj aerobnih kapaciteta bez nogometnog sadržaja
+    2. Odabrati test s kojim bi testirali sposobnost (4 boda)
+    a) Mobilnosti/Fleksibilnosti
+    b) Jakosti
+    c) Brzine
+    d) Energetskih sposobnosti
+    3. Kreirati mikrociklus u amaterskom nogometu (Subota-Subota) (5 bodova)
+    a) Navesti koje dane treniramo (1bod)
+    b) Navesti slobodne dane (1bod)
+    c) Navesti cilj dana - uvodni, razvojni, oporavak, utakmica (1bod)
+    d) Navesti na koji dan provodite trening - Jakosti (1bod)
+    - Brzine (1bod)
+- 2025-03-13
+    
+    Poštovani,
+    
+    Molim Vas da provjerite status svojih zadataka u Trenerovom dnevniku. Nakon što riješili prva tri zadatka **(prijavnica, potvrda, 50 TJ)** molim Vas da me povratno obavijestite na e-mail [luka.karatovic@hns.family](mailto:luka.karatovic@hns.family)
+    
+    Zadatak **4. Kondicijska priprema** potrebno je riješiti, učitati u „Trenerov dnevnik“ te isti predati na praktičnom dijelu ispita.
+    
+    Također, ukoliko imate poteškoća sa rješavanjem zadataka slobodno me kontaktirajte.
+    
+    Ukoliko ste već od mentora dobili potvrdu da su zadaci završeni i ocjenjeni, molim Vas da ovaj e-mail zanemarite.
+    
+    Za sva dodatna pitanja stojim na raspolaganju.
+    
+    Lijepi pozdrav
+    
+    Poštovani,
+    
+    javljam da su sva 4 zadatka (prijavnica prakse, 50 TJ, potvrda o realizaciji prakse i kondicijska priprema) učitani u Trenerov dnevnik.
+    
+    Lijep pozdrav,
+    
+    Marko Andreis
+    
+    Poštovani,
+    
+    Zadaci su riješeni i ocjenjeni.
+    
+    Lijepi pozdrav
+    
+- 2025-03-23
+    
+    Poštovani,
+    
+    Obavještavamo Vas kako će se praktični dio ispita održati u **srijedu, 01.04.2026.** Mjesto održavanja: **NK Sesvete, Vladimira Vidrića 7, 10360 Sesvete, u 11:00h.**
+    
+    Molimo Vas da na ispit dođete 10 minuta ranije te da osigurate sportsku opremu,  loptu i zviždaljku.
+    
+    Podsjećamo da na praktični dio ispita donesete i riješen **Zadatak 4 - Kondicijska priprema** a isti učitate u Trenerov dnevnik.
+    
+    Dolazak **OBAVEZNO** potvrdite na e-mail adresu [luka.karatovic@hns.family](mailto:luka.karatovic@hns.family)
+    
+    Lijepi pozdrav
+    
+    Poštovani,
+    
+    ovim putem potvrđujem dolazak na praktični dio ispita u navedenom terminu.
+    
+    Srdačno,
+    
+    Marko Andreis

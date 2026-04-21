@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: experiences
+title: Experiences
 which_category: experiences
 ---
 

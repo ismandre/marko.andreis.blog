@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: books
+title: Books
 which_category: books
 ---
 

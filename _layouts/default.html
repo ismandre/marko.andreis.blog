@@ -18,6 +18,10 @@
     <script src="{{ '/assets/js/chalk-circle.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/chalk-dust.js' | relative_url }}"></script>
 
+    {% if page.layout == "post" %}
+      <script src="{{ '/assets/js/external-links.js' | relative_url }}"></script>
+    {% endif %}
+
     {% if page.custom_js %}
       {% for js_file in page.custom_js %}
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
