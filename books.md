@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: archive
 title: books
+which_category: books
 ---
 
-Coming soon.
+Notes and thoughts on books I've read.
