@@ -42,10 +42,10 @@ The response was basically the same: Chop wood. Carry water. Follow the website.
 
 Finally, at the beginning of May, the applications were opened. Based on the 
 [application requirements document](https://hns.family/files/documents/31120/Natje%C4%8Daj%20za%20stjecanje%20mikrokvalifikacije%20za%20trenera%20I%20razine%20UEFA%20C%20kategorije%20-%202025-2026.pdf) 
-from previous years, I was mostly prepared with the application documents. Minimal requirements at this point
+from previous years, I was mostly prepared with the application documents upfront. Minimal requirements at this level
 are pretty low:
 
-- possession of a prior qualification at least at Level 4.1 of the Croatian Qualifications Framework (završena četverogodišnja srednja škola)
+- possession of a prior qualification at least at Level 4.1 of the Croatian Qualifications Framework (četverogodišnja srednja škola)
 - at least 18 years of age
 - a minimum of 4 years of active football playing experience at a registered club
 - a medical certificate from sports medicine confirming fitness
