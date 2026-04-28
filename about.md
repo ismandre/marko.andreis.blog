@@ -6,6 +6,10 @@ description: Hi! Software engineer, reader, and blogger sharing insights on tech
 
 This website is where I share thoughts on what I'm learning, the ideas I care about, and occasionally, reflections on life.
 
+Software engineer, enthusiastic about sports (football in particular) and finances.
+
+I blog because it's fun, not because it pays my rent.
+
 <div class="pinned-image">
   <img src="/assets/img/about_image.webp" alt="Photo taken at Granada, Spain">
   <div class="pinned-image__caption">
