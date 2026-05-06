@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
-  <body>
+  {%- assign active_section = page.category | default: page.which_category -%}
+  {%- if page.title == "About me" -%}
+    {%- assign active_section = "about" -%}
+  {%- endif -%}
+  <body data-active-section="{{ active_section }}">
     <main class="page-content" aria-label="Content">
       <div class="w">
         {%- include navbar.html -%}
@@ -14,6 +18,7 @@
     {%-endif-%}
 
     <script src="{{ '/assets/js/navbar.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/navbar-persistent-circle.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/chalk-cursor.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/chalk-circle.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/chalk-dust.js' | relative_url }}"></script>
