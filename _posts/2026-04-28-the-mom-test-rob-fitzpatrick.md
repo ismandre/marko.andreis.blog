@@ -117,9 +117,13 @@ aspect of the <span style="color: var(--orange);">idea's sustainability</span>. 
 not to be worthwhile.
 
 
-<h2 style="color: var(--honeysuckle);">Avoiding bad data</h2>
-
 <h2 style="color: var(--honeysuckle);">Keeping it casual</h2>
+
+<span style="color: var(--orange);">Conferences and industry meetups</span> work wonders for getting people to talk about their issues
+in a quick and casual chat rather than a long, format meeting. In this way you 
+- strip down the expectations of anything coming out of the conversation, 
+- cut down the time to reach actual people and have a conversation with them, 
+- and expose yourself to extra learning due to serendipity of spontaneous conversations. 
 
 <h2 style="color: var(--honeysuckle);">Commitment and advancement</h2>
 
