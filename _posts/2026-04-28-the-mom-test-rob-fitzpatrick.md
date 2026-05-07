@@ -25,7 +25,7 @@ to protect your feelings,
 acknowledgingly say yes and you will leave the conversation with the impression that the idea is really a 
 potential to build a business around. 
 
-The author of this book not only says that this approach is a bad idea,
+The author of this book not only says this approach is a bad idea,
 but that <span style="color: var(--orange)">the whole question</span>, as it is phrased right now, 
 <span style="color: var(--orange)">isn't going to bring you closer to the truth</span>.
 He gives a bunch of interesting could-happen conversation scenarios as well as tips and tricks on how
@@ -63,20 +63,25 @@ is that you end up with a bunch of bad data. There are three flavours of bad dat
 
 The best way to avoid <span style="color: var(--orange);">compliments</span> is to not mention your idea at all. There is a potential danger
 of being overly excited about your idea that you start pitching it to the potential customer. This is
-not the right time to do it. The way to get back on the track is to deflect compliments to your pitch by
+not the right time to do it. The way to get back on track is to deflect compliments to your pitch by
 asking relevant questions about how they previously handled the problem your idea tends to solve. There is
 also a realistic scenario in which you discover that the issue you are trying to solve is not that big of 
 a deal and there is no potential to build a business around it. This is also a good (although negative) 
 conversation.
 
-There are symptoms which help spot if the conversation went wrong because every response contained
+There are symptoms which help spot if the conversation went wrong because every response contains
 sneaky compliments. Saying, "I'm glad you liked it" in the meeting or thinking "That meeting went well"
 back at the office could mean that the conversation didn't result in any valuable information.
 
 The way to detect customer started using <span style="color: var(--orange);">hypothetical statements about 
 the future</span> is to notice them talking
-about generic claims, future-tense promises, and hypothetical maybes. This type of bad data is often
-materialized in statements such as "I would definitely but that". The way to escape this fluff is to
+about 
+- generic claims, 
+- future-tense promises, 
+- and hypothetical maybes. 
+
+This type of bad data is often
+materialized in statements such as "I would definitely buy that". The way to escape this fluff is to
 trace back to their experiences and specifics of how things are already done.
 
 The <span style="color: var(--orange);">ideas</span> are potentially dangerous since being at the startup 
@@ -89,6 +94,28 @@ overjoyed, this could be a potential for further conversation.
 
 
 <h2 style="color: var(--honeysuckle);">Asking important questions</h2>
+
+On the other hand, it is important to ask non-trivial questions. Non-triviality here comes in the form
+of <span style="color: var(--orange);">questions whose answers could potentially break a business</span> in a way you imagined it. Preparation for
+these kinds of questions includes distancing yourself from the idea to be open to the possibility that
+the customer will be able to provide you with a better answer. Also, at this point, it is crucial to figure
+out if the issue your idea is trying to tackle meets two conditions:
+1. whether the person we're talking to is <span style="color: var(--orange);">taking this matter seriously</span>
+2. whether they are <span style="color: var(--orange);">willing to pay</span> for the solution.
+
+Questions like "How much time do you spend on it each week?" and "What are you already doing to improve this?"
+are broad enough to prevent you from zooming in too early, but give you a chance to find a strong signal
+for the potential business.
+
+Key takeaway here is to prepare 3 most important things to learn from a conversation with a given type of person
+- customer
+- industry expert
+- key hires.
+
+The goal here is to come up with those questions in calm environment and to point them at crucial
+aspect of the <span style="color: var(--orange);">idea's sustainability</span>. Even if it means that their actual answers could prove your idea
+not to be worthwhile.
+
 
 <h2 style="color: var(--honeysuckle);">Avoiding bad data</h2>
 
