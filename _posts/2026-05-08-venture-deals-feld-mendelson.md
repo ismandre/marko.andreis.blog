@@ -77,6 +77,23 @@ eliminate the potential of controversies over IP ownership later down the road.
 
 <h2 style="color: var(--honeysuckle);">How to Raise Money</h2>
 
+Aim to get several term sheets in parallel to negotiate better terms. Since every venture capital firm is different, the general
+advice would be to make sure you know who you are dealing with. However, there is some practical advice:
+
+1. Go into a money-raising process with an attitude of presuming success.
+2. To target relevant potential investors, figure out how much money you are going to raise.
+3. Prepare fundraising materials[^business-plan]: an executive summary[^executive-summary], a presentation[^presentation], and (ideally) a demo or prototype.
+4. Prepare elevator pitch[^elevator-pitch].
+5. Understand financial dynamics of your business[^financial-dynamics].
+
+As part of the due diligence, once VC offers you a term sheet, their lawyers will ask you for documents such as capitalization tables, material customer agreements, and employment agreements.
+There is [an additional list of documents](https://venturedeals.com/resources/) requested once the term sheet offered is signed. 
+
+[^executive-summary]: Short description of your business. This is up to a three-page document which contains a description of your idea, product, team, and business. If there is any interest withing a VC firm in what you are doing, this document will be passed around.
+[^presentation]: 10- to 20- page PowerPoint or Google Slides presentation consisting of a substantive overview of your business. Ideally includes a problem you are solving, size of the opportunity, strength of the team, level of competition, your plan of attack, and current status.
+[^elevator-pitch]: Short description of business, but not to be confused with executive summary. One to three paragraphs that describe the product, the team, and the business. In the form you can email. This and the document attached containing an executive summary will often be your first communication with a VC.
+[^business-plan]: Business plan is not included in this list since many people consider it obsolete for fundraising, it could be helpful while formulating your business, though.
+[^financial-dynamics]: At early stage companies most of the financial predictions will probably be wrong. However, it is beneficial to think about assumptions underlying the revenue forecast and monthly burn rate prior to the meeting with investors. In later financing rounds, your company's historical financial performance will matter a lot more to prospective VCs.
 
 
 
