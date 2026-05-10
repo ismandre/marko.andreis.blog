@@ -212,6 +212,11 @@ a {
   }
 }
 
+// Custom styling for navbar links to use honeysuckle color
+.navbar__links a {
+  color: var(--honeysuckle);
+}
+
 .post-meta {
   text-align: right;
   color: rgba(240, 237, 224, 0.5);

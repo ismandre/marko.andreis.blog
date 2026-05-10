@@ -89,6 +89,21 @@ advice would be to make sure you know who you are dealing with. However, there i
 As part of the due diligence, once VC offers you a term sheet, their lawyers will ask you for documents such as capitalization tables, material customer agreements, and employment agreements.
 There is [an additional list of documents](https://venturedeals.com/resources/) requested once the term sheet offered is signed. 
 
+When possible, use your network to reach out to the prospective VCs. Otherwise, use their websites, blogs, and social media presence
+to understand what types of companies they invest in, what stages they prefer to invest in, their preferred channel, and their track record.
+The ultimate goal here is to <span style="color: var(--orange);">build a long-lasting relationship</span>.
+
+Understand the [role of the person](#the-players) within the firm who is your primary connection. Rule of thumb here is
+not to get overly excited until there is a general partner or managing director spending real time with you. As things unfold
+through the meetings, either you'll continue to work with the VC in exploring the opportunity or the VC will start slowing
+down the pace of communication.
+
+In the end, VCs will decide whether to invest. If they do, the next step in the process is for them to issue a term sheet.
+The ultimate goal of the process is to <span style="color: var(--orange);">close the deal</span>, raise the money, and get back to running your business.
+First step in closing the deal includes signing of the term sheet and the second is signing the definitive agreements
+and receiving the cash.
+
+
 [^executive-summary]: Short description of your business. This is up to a three-page document which contains a description of your idea, product, team, and business. If there is any interest withing a VC firm in what you are doing, this document will be passed around.
 [^presentation]: 10- to 20- page PowerPoint or Google Slides presentation consisting of a substantive overview of your business. Ideally includes a problem you are solving, size of the opportunity, strength of the team, level of competition, your plan of attack, and current status.
 [^elevator-pitch]: Short description of business, but not to be confused with executive summary. One to three paragraphs that describe the product, the team, and the business. In the form you can email. This and the document attached containing an executive summary will often be your first communication with a VC.
