@@ -78,7 +78,7 @@ eliminate the potential of controversies over IP ownership later down the road.
 <h2 style="color: var(--honeysuckle);">How to Raise Money</h2>
 
 Aim to get several term sheets in parallel to negotiate better terms. Since every venture capital firm is different, the general
-advice would be to make sure you know who you are dealing with. However, there is some practical advice:
+advice would be to make sure you <span style="color: var(--orange);">know who you are dealing with</span>. However, there is some practical advice:
 
 1. Go into a money-raising process with an attitude of presuming success.
 2. To target relevant potential investors, figure out how much money you are going to raise.
@@ -111,8 +111,15 @@ and receiving the cash.
 [^financial-dynamics]: At early stage companies most of the financial predictions will probably be wrong. However, it is beneficial to think about assumptions underlying the revenue forecast and monthly burn rate prior to the meeting with investors. In later financing rounds, your company's historical financial performance will matter a lot more to prospective VCs.
 
 
-
 <h2 style="color: var(--honeysuckle);">Overview of the Term Sheet</h2>
+
+The term sheet is critical. It serves as a blueprint for your relationship with investor and determines the final deal structure.
+In this context, what VCs really care about when making investments are <span style="color: var(--orange);">economics</span>[^investment-economics] and <span style="color: var(--orange);">control</span>[^investment-control].
+
+
+[^investment-economics]: The return the investors will get in a liquidity event. 
+[^investment-control]: The mechanisms that allow the investors to exercise control over the business or to call off decisions company can make.
+
 <h2 style="color: var(--honeysuckle);">Economic Terms of the Terms Sheet</h2>
 <h2 style="color: var(--honeysuckle);">Control Terms of the Term Sheet</h2>
 <h2 style="color: var(--honeysuckle);">Other Terms of the Term Sheet</h2>
