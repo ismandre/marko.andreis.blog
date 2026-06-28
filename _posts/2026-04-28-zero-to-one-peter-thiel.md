@@ -38,6 +38,30 @@ horizontal progress (globalization), but the truth is that technology matters mo
 
 
 <h2 style="color: var(--honeysuckle);">Party Like It's 1999</h2>
+
+To further argument on his answer to the contrarian question, Thiel uses the internet craze of the '90s as an example.
+By deconstructing the initial questions into parts, he asks: what does everybody agree on? 
+
+He takes following proposition: companies exist to make money, not to lose it. He argues that this proposition was 
+challenged during the mentioned period when no loss was too big to be described as an investment based on the financial
+metrics such as page views rather than profit.
+
+Following the burst of the dot-com bubble, entrepreneurs learned four big lessons: 
+1. Make incremental advances.
+2. Stay lean and flexible.
+3. Improve on the competition.
+4. Focus on product, not sales.
+
+Thiel argues that these principles have become dogma in the startup world and that the opposite ones
+are probably more correct:
+
+1. It is better to risk boldness than triviality.
+2. A bad plan is better than no plan.
+3. Competitive markets destroy profits.
+4. Sales matters just as much as product.
+
+
+
 <h2 style="color: var(--honeysuckle);">All Happy Companies Are Different</h2>
 <h2 style="color: var(--honeysuckle);">The Ideology of Competition</h2>
 <h2 style="color: var(--honeysuckle);">The Last Mover Advantage</h2>
