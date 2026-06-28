@@ -84,13 +84,6 @@ html, body { background: #ffffff; background-color: transparent; }
 
 html { height: 100%; scroll-behavior: smooth; }
 
-@media (pointer: fine) {
-  body, a, button, [role="button"],
-  input[type="submit"], input[type="button"], label {
-    cursor: none;
-  }
-}
-
 body {
   color: rgba(240, 237, 224, 0.88);
   font-family: var(--content-font-family);
@@ -352,29 +345,6 @@ img {
     border: none;
     box-shadow: none;
     margin: 0;
-  }
-}
-
-// Custom chalk cursor
-@media (pointer: coarse) {
-  #chalk-cursor { display: none !important; }
-}
-
-#chalk-cursor {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 48px;
-  height: 48px;
-  background: url("#{$baseurl}/assets/img/white_chalk.png") center / contain no-repeat;
-  pointer-events: none;
-  z-index: 9999;
-  transform-origin: top left;
-  will-change: left, top;
-  transition: transform 0.3s ease;
-
-  &.is-circling {
-    transform: rotate(-60deg);
   }
 }
 
