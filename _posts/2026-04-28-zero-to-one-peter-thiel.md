@@ -40,7 +40,7 @@ horizontal progress (globalization), but the truth is that technology matters mo
 <h2 style="color: var(--honeysuckle);">Party Like It's 1999</h2>
 
 To further argument on his answer to the contrarian question, Thiel uses the internet craze of the '90s as an example.
-By deconstructing the initial questions into parts, he asks: what does everybody agree on? 
+By deconstructing the initial question into parts, he asks: what does everybody agree on? 
 
 He takes following proposition: companies exist to make money, not to lose it. He argues that this proposition was 
 challenged during the mentioned period when no loss was too big to be described as an investment based on the financial
@@ -63,6 +63,25 @@ are probably more correct:
 
 
 <h2 style="color: var(--honeysuckle);">All Happy Companies Are Different</h2>
+
+The business version of the contrarian question is: what valuable company is nobody building? Emphasizing on not just 
+creating a value, but also capturing some of the value created, Thiel compares U.S. airline companies with Google. 
+The airline companies compete with each other, while Google stands alone.
+
+He uses these two extremes to make an argument for monopoly against perfect competition. Under perfect competition, in
+the long run no company makes an economic profit. Thiel uses Google as an example of a company that's so good at what it
+does that no other firm can offer a close substitute, allowing Google to maximize its profits. Google is an example of a 
+company that went from 0 to 1.
+
+The ultimate advice here is if you want to create and capture lasting value, don't build an undifferentiated commodity
+business.
+
+In the wild, both monopolists and non-monopolists have an incentive to lie about their actual market positioning.
+Monopolists are aware that bragging about their great monopoly invites being audited, so they lie to protect themselves.
+Non-monopolists tend to describe their market too narrowly to understate the scale of the competition. 
+
+
+
 <h2 style="color: var(--honeysuckle);">The Ideology of Competition</h2>
 <h2 style="color: var(--honeysuckle);">The Last Mover Advantage</h2>
 <h2 style="color: var(--honeysuckle);">You Are Not a Lottery Ticket</h2>
